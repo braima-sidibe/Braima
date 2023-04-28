@@ -1,7 +1,7 @@
 # Olá, Mundo!
- Primeiro repositório  Curso em Vídeo
+ Primeiro repositório.
 
- Repositório criado por mim
+ Repositório criado por mim.
 
 Linha alterada diretamente de site! IMPRESSIONANTE!!!
 
